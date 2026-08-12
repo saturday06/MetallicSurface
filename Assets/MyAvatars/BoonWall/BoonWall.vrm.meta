@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 96d61ee95262e0c41b04a443babd100e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KabeMaterial
+    second: {fileID: 2100000, guid: b947e7c9fa0f9f84f9a06c318ee27ba3, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tex
+    second: {fileID: 2800000, guid: e8d4ff37e4d503b4f90ff715d35e9659, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: Tex__UNIGLTF__DUPLICATED__2
+    second: {fileID: 2800000, guid: a29bc3cf87b67d144803f472334c2a09, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f66ead3390398f443aa127b741826ad9, type: 3}
+  MigrateToVrm1: 1
+  RenderPipeline: 0

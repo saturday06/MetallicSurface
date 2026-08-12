@@ -1,0 +1,13 @@
+* -text
+.* text eol=lf
+
+*.cs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+/Assets/**/*.asmdef text eol=lf
+/Assets/**/*.asset text eol=lf
+/Assets/**/*.inputactions text eol=lf
+/Assets/**/*.meta text eol=lf
+/Assets/**/*.unity text eol=lf
+/Assets/**/csc.rsp text eol=lf
+Directory.Build.props text eol=crlf
