@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0b08fcd347f11e74fa2606974fc70531
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KochiiyaRobot
+    second: {fileID: 2100000, guid: 50049b3fb878b1b49a456cb43587633a, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: KochiiyaRobot.png
+    second: {fileID: 2800000, guid: 39b395b4947f3d64485ae02d34bb7447, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f66ead3390398f443aa127b741826ad9, type: 3}
+  MigrateToVrm1: 1
+  RenderPipeline: 0
