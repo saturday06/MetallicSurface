@@ -11,3 +11,6 @@
 /Assets/**/*.unity text eol=lf
 /Assets/**/csc.rsp text eol=lf
 Directory.Build.props text eol=crlf
+
+/Packages/.gitignore text eol=crlf
+/Packages/vpm-manifest.json text eol=crlf
