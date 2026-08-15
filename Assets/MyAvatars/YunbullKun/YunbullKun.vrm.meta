@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5901bb3cac3d82c42a17966adfda5e38
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    second: {fileID: 2100000, guid: 470ad798f9a2a2740af3c7044101e5a4, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: "\u30C6\u30AF\u30B9\u30C1\u30E3"
+    second: {fileID: 2800000, guid: 1d535f88f3836824a95ff56f575f0de2, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f66ead3390398f443aa127b741826ad9, type: 3}
+  MigrateToVrm1: 1
+  RenderPipeline: 0
