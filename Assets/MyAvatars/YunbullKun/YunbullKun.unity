@@ -597,50 +597,50 @@ MonoBehaviour:
   collider_head:
     isMirrored: 1
     state: 0
-    transform: {fileID: 0}
-    radius: 0
+    transform: {fileID: 1171081680}
+    radius: 0.6911483
     height: 0
-    position: {x: 0, y: 0, z: 0}
+    position: {x: 0, y: -0.86393535, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
   collider_torso:
     isMirrored: 1
     state: 0
-    transform: {fileID: 0}
-    radius: 0
-    height: 0
-    position: {x: 0, y: 0, z: 0}
+    transform: {fileID: 1171081679}
+    radius: 0.33097175
+    height: 1.4522582
+    position: {x: -6.6000476e-17, y: 0.48117518, z: 0.00062170625}
     rotation: {x: 0, y: 0, z: 0, w: 1}
   collider_footR:
     isMirrored: 1
     state: 0
-    transform: {fileID: 0}
-    radius: 0
+    transform: {fileID: 1171081678}
+    radius: 0.084468745
     height: 0
     position: {x: 0, y: 0, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
   collider_footL:
     isMirrored: 1
     state: 0
-    transform: {fileID: 0}
-    radius: 0
+    transform: {fileID: 1171081677}
+    radius: 0.084468745
     height: 0
     position: {x: 0, y: 0, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
   collider_handR:
     isMirrored: 1
     state: 0
-    transform: {fileID: 0}
-    radius: 0
+    transform: {fileID: 1171081676}
+    radius: 0.051000006
     height: 0
-    position: {x: 0, y: 0, z: 0}
+    position: {x: -0.00000012985358, y: 0.051000245, z: -0.000000117871956}
     rotation: {x: 0, y: 0, z: 0, w: 1}
   collider_handL:
     isMirrored: 1
     state: 0
-    transform: {fileID: 0}
-    radius: 0
+    transform: {fileID: 1171081675}
+    radius: 0.051000006
     height: 0
-    position: {x: 0, y: 0, z: 0}
+    position: {x: 0.00000012985358, y: 0.051000245, z: -0.000000117871956}
     rotation: {x: 0, y: 0, z: 0, w: 1}
   collider_fingerIndexL:
     isMirrored: 1
@@ -706,6 +706,42 @@ MonoBehaviour:
     height: 0
     position: {x: 0, y: 0, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
+--- !u!4 &1171081675 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4334321280658013629, guid: 5901bb3cac3d82c42a17966adfda5e38,
+    type: 3}
+  m_PrefabInstance: {fileID: 1171081671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1171081676 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -803730517800179520, guid: 5901bb3cac3d82c42a17966adfda5e38,
+    type: 3}
+  m_PrefabInstance: {fileID: 1171081671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1171081677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8598513136782352403, guid: 5901bb3cac3d82c42a17966adfda5e38,
+    type: 3}
+  m_PrefabInstance: {fileID: 1171081671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1171081678 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -3788779101173262161, guid: 5901bb3cac3d82c42a17966adfda5e38,
+    type: 3}
+  m_PrefabInstance: {fileID: 1171081671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1171081679 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -7473774646561815145, guid: 5901bb3cac3d82c42a17966adfda5e38,
+    type: 3}
+  m_PrefabInstance: {fileID: 1171081671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1171081680 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7368058352390773910, guid: 5901bb3cac3d82c42a17966adfda5e38,
+    type: 3}
+  m_PrefabInstance: {fileID: 1171081671}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
